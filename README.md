@@ -1,4 +1,4 @@
-# The Atom Smart Golf Ball
+# THE ATOM SMART GOLF BALL
 The goal is to create a smart golfball that can be tracked via a smartphone app to provide golfers insights into their game.
 
 ## The Goal to Accomplish
