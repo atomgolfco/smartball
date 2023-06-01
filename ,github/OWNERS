@@ -1,0 +1,9 @@
+# See the OWNERS docs at https://github.com/atomgolfco/.github/OWNERS
+
+options:
+  # make root approval non-recursive
+  no_parent_owners: true
+reviewers:
+  - atomgolfco
+approvers:
+  - atomgolfco
